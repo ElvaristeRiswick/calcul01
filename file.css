@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.djime {
+  background-color: blue;
+  width: 30%;
+  margin: 50px auto;
+  padding: 30px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 15px 15px 15px black;
+}
+
+.djimeh1 {
+}
+
+.djime input {
+  width: 100%;
+  margin: 10px 0px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.djime button {
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.djime button:hover {
+  cursor: pointer;
+  background: rgb(99, 241, 99);
+}
